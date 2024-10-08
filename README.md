@@ -1,3 +1,3 @@
 # first-css-project
 <br/>
-Author: Deepak Kumar Mahto
+Author: Deepak Kumar (apna college)
